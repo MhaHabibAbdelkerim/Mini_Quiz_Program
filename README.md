@@ -16,25 +16,6 @@ ___
 * Score tracking: Keeps track of your score and total number of questions.
 
 * Percentage calculation: Shows the final score and percentage at the end.
-
-___
-
-## 🛠 How to use
-
-1. Clone the repository or download the script
-   
-2. Run the Python file in a console/terminal:
-python mini_quiz_app.py
-
-3. Choose a difficulty level when prompted:
--easy 
--medium 
--hard
-
-Or press Enter for random order of all questions.
-Answer the questions one by one in the console.
-View your results at the end, including score and percentage.
-
 ___
 
 ## Example usage
